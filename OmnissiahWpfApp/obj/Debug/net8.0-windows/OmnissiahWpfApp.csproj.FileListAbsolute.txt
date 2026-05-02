@@ -188,3 +188,4 @@ C:\Git-projects\Omnissiah\OmnissiahWpfApp\obj\Debug\net8.0-windows\refint\Omniss
 C:\Git-projects\Omnissiah\OmnissiahWpfApp\obj\Debug\net8.0-windows\OmnissiahWpfApp.pdb
 C:\Git-projects\Omnissiah\OmnissiahWpfApp\obj\Debug\net8.0-windows\OmnissiahWpfApp.genruntimeconfig.cache
 C:\Git-projects\Omnissiah\OmnissiahWpfApp\obj\Debug\net8.0-windows\ref\OmnissiahWpfApp.dll
+C:\Git-projects\Omnissiah\OmnissiahWpfApp\obj\Debug\net8.0-windows\OmnissiahWpfApp_Content.g.cs
