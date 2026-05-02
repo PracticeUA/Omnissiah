@@ -1,70 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\",
+  "WorkspaceRootPath": "C:\\Git-projects\\Omnissiah\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\styles\\mainwindowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\styles\\mainwindowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\styles\\mainwindowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp.tests\\viewmodels\\mainwindowviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\viewmodels\\mainwindowviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp.tests\\helpers\\frameparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\helpers\\frameparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp.tests\\services\\signalaggregatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\services\\signalaggregatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\models\\signalaggregatedrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\models\\signalaggregatedrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\services\\tcpserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\services\\tcpserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp.tests\\services\\tcpserverservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\services\\tcpserverservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\services\\tcpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\services\\tcpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\services\\signalaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\services\\signalaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\models\\signalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\models\\signalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\helpers\\frameparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\helpers\\frameparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\helpers\\frameparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp.tests\\viewmodels\\mainwindowviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\viewmodels\\mainwindowviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\users\\practice\\desktop\\omnissiahwpfapp2\\omnissiahwpfapp\\omnissiahwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp.tests\\helpers\\frameparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\helpers\\frameparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\services\\tcpserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\services\\tcpserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\models\\signalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\models\\signalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\models\\signalaggregatedrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\models\\signalaggregatedrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\services\\signalaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\services\\signalaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\services\\tcpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\services\\tcpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp.tests\\services\\signalaggregatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\services\\signalaggregatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp.tests\\services\\tcpserverservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38FC368-918A-9AE8-5DA3-C423E3001E9F}|OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj|solutionrelative:omnissiahwpfapp.tests\\services\\tcpserverservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 37,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,11 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindowViewModelTests.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\ViewModels\\MainWindowViewModelTests.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\ViewModels\\MainWindowViewModelTests.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp.Tests\\ViewModels\\MainWindowViewModelTests.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\ViewModels\\MainWindowViewModelTests.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\ViewModels\\MainWindowViewModelTests.cs",
               "RelativeToolTip": "OmnissiahWpfApp.Tests\\ViewModels\\MainWindowViewModelTests.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,37 +187,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "TcpServerServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\Services\\TcpServerServiceTests.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\Services\\TcpServerServiceTests.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp.Tests\\Services\\TcpServerServiceTests.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\Services\\TcpServerServiceTests.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\Services\\TcpServerServiceTests.cs",
               "RelativeToolTip": "OmnissiahWpfApp.Tests\\Services\\TcpServerServiceTests.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAnwHgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T09:07:15.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T09:07:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignalAggregatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
+              "RelativeDocumentMoniker": "OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
+              "RelativeToolTip": "OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:14:45.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SignalAggregatorServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
-              "RelativeDocumentMoniker": "OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
-              "RelativeToolTip": "OmnissiahWpfApp.Tests\\Services\\SignalAggregatorServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T08:14:45.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "FrameParserTests.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\Helpers\\FrameParserTests.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\Helpers\\FrameParserTests.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp.Tests\\Helpers\\FrameParserTests.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\Helpers\\FrameParserTests.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\Helpers\\FrameParserTests.cs",
               "RelativeToolTip": "OmnissiahWpfApp.Tests\\Helpers\\FrameParserTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,38 +224,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\MainWindow.xaml*",
-              "RelativeToolTip": "OmnissiahWpfApp\\MainWindow.xaml*",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "OmnissiahWpfApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-30T15:07:53.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "FrameParser.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Helpers\\FrameParser.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Helpers\\FrameParser.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Helpers\\FrameParser.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Helpers\\FrameParser.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Helpers\\FrameParser.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\Helpers\\FrameParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T14:08:21.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "SignalAggregatorService.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T13:46:27.345Z",
               "EditorCaption": ""
@@ -278,111 +264,74 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "TcpClientService.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Services\\TcpClientService.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\TcpClientService.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Services\\TcpClientService.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Services\\TcpClientService.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\TcpClientService.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\Services\\TcpClientService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T13:45:41.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SignalAggregatedRecordModel.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T13:42:33.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "SignalRecordModel.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T13:39:39.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\ViewModels\\MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T13:35:35.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "OmnissiahWpfApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\App.xaml.cs",
-              "RelativeToolTip": "OmnissiahWpfApp\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T13:34:10.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "TcpServerService.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Services\\TcpServerService.cs",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\TcpServerService.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Services\\TcpServerService.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Services\\TcpServerService.cs",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\TcpServerService.cs",
               "RelativeToolTip": "OmnissiahWpfApp\\Services\\TcpServerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T12:58:11.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "OmnissiahWpfApp\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\AssemblyInfo.cs",
-              "RelativeToolTip": "OmnissiahWpfApp\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:57:26.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\App.xaml",
-              "RelativeDocumentMoniker": "OmnissiahWpfApp\\App.xaml",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\App.xaml",
-              "RelativeToolTip": "OmnissiahWpfApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-30T15:08:06.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindowStyle.xaml",
-              "DocumentMoniker": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
+              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
-              "ToolTip": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
+              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
               "RelativeToolTip": "OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-01T14:20:16.992Z",

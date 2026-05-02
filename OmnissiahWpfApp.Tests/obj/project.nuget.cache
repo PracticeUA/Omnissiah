@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cd4NgflhlY=",
+  "dgSpecHash": "rtlmHA+IkVw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj",
+  "projectFilePath": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Practice\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
     "C:\\Users\\Practice\\.nuget\\packages\\countrydata.globalization\\1.0.0\\countrydata.globalization.1.0.0.nupkg.sha512",

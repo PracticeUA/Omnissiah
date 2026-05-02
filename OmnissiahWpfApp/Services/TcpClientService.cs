@@ -10,6 +10,29 @@ using System.Windows.Controls;
 
 namespace OmnissiahWpfApp.Services
 {
+    /// <summary>
+    /// TCP client that connects to a signal stream server, reads binary frames,
+    /// and forwards parsed records to <see cref="SignalAggregatorService"/>.
+    /// </summary>
+    /// <remarks>
+    /// Lifecycle is controlled via <see cref="StartAsync"/> and <see cref="StopAsync"/>.
+    /// On successful connection a background read loop is started on a separate task.
+    /// If the connection attempt fails, a <see cref="MessageBox"/> is shown and
+    /// <see cref="IsConnected"/> remains <c>false</c>.
+    ///
+    /// Frame reading follows a length-prefixed protocol:
+    /// <code>
+    /// [0..2)  uint16  Payload length in bytes (little-endian)
+    /// [2..N)  byte[]  Raw signal payload, parsed by <see cref="FrameParser"/>
+    /// </code>
+    /// Partial reads are handled correctly — the payload loop accumulates bytes
+    /// until the full frame is received before parsing.
+    ///
+    /// The read loop exits on cancellation, stream EOF, or any socket exception,
+    /// setting <see cref="IsConnected"/> to <c>false</c> and raising
+    /// <see cref="OnConnectionStateChanged"/> so the UI reflects the disconnection
+    /// even if it was caused by a remote server shutdown.
+    /// </remarks>
     public sealed class TcpClientService {
 
         private readonly SignalAggregatorService _signalAggregator;

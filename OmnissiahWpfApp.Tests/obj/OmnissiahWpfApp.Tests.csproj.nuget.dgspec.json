@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj": {}
+    "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj": {
+    "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj",
+        "projectUniqueName": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj",
         "projectName": "OmnissiahWpfApp.Tests",
-        "projectPath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj",
+        "projectPath": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\OmnissiahWpfApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Practice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp.Tests\\obj\\",
+        "outputPath": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
             "framework": "net8.0-windows7.0",
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj": {
-                "projectPath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj"
+              "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj": {
+                "projectPath": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj": {
+    "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj",
+        "projectUniqueName": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj",
         "projectName": "OmnissiahWpfApp",
-        "projectPath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj",
+        "projectPath": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\OmnissiahWpfApp.csproj",
         "packagesPath": "C:\\Users\\Practice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Practice\\Desktop\\OmnissiahWpfApp2\\OmnissiahWpfApp\\OmnissiahWpfApp\\obj\\",
+        "outputPath": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,7 +7,26 @@ using System.Threading.Tasks;
 
 namespace OmnissiahWpfApp.Services 
 {
-
+    /// <summary>
+    /// Aggregates a stream of raw signal records into frequency-band buckets.
+    /// </summary>
+    /// <remarks>
+    /// Each call to <see cref="ProcessRecord"/> either increments the count of the current
+    /// aggregated record or finalizes it and starts a new one, depending on whether the
+    /// incoming signal falls within the current record's frequency band.
+    ///
+    /// A signal is considered part of the current band if its frequency satisfies:
+    /// <code>
+    /// center - bandwidth/2 &lt;= FrequencyHz &lt; center + bandwidth/2
+    /// </code>
+    ///
+    /// <see cref="OnRecordCreated"/> is raised on the calling thread (typically a background
+    /// TCP receive thread) — subscribers are responsible for marshalling to the UI thread
+    /// if needed.
+    ///
+    /// Thread safety is guaranteed by an internal lock — <see cref="ProcessRecord"/>
+    /// may be called concurrently from multiple threads.
+    /// </remarks>
     public sealed class SignalAggregatorService {
 
         private readonly object _locker = new();

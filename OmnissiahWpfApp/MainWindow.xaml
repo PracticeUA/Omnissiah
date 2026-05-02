@@ -8,7 +8,7 @@
         Title="OmnissiahWpfApp"
         Style="{StaticResource MainWindowStyle}"
         WindowStartupLocation="CenterScreen"
-        MinHeight="520" MinWidth="840"
+        MinHeight="420" MinWidth="1040"
         Height="620" Width="1040">
 
     <Border Style="{StaticResource RootBorderStyle}">
@@ -18,12 +18,14 @@
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
                 <RowDefinition Height="12"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
             <!-- Start/Stop Buttons -->
             <StackPanel Grid.Row="0"
+                        Margin="0 0 0 10"
                         Orientation="Horizontal"
                         VerticalAlignment="Center">
 
@@ -35,16 +37,91 @@
 
                 <Button Width="150"
                         Style="{StaticResource ClientButtonStyle}"
-                        Visibility="{Binding IsClientButtonVisible}"
+                        IsEnabled="{Binding IsClientButtonEnabled}"
                         Content="{Binding ClientButtonText, FallbackValue='Start Client'}"
                         Command="{Binding ToggleClientCommand}"/>
 
             </StackPanel>
 
+            <!--Separator-->
+            <Border Grid.Row="1" 
+                    Style="{StaticResource SeparatorBorderStyle}">
+            </Border>
+            
+            <!-- Filters -->
+            <StackPanel Grid.Row="2"
+                        Margin="0 0 0 10"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center">
+
+                <StackPanel Margin="0 0 12 0">
+                    <TextBlock Text="TIMESTAMP"
+                               FontSize="10" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="2 0 0 4"/>
+                    <ComboBox Width="160"
+                              Style="{StaticResource ModernComboBoxStyle}"
+                              ItemsSource="{Binding TimestampOptions}"
+                              SelectedItem="{Binding FilterTimestamp}"/>
+                </StackPanel>
+                
+                <StackPanel Margin="0 0 12 0">
+                    <TextBlock Text="FREQUENCY  MHz"
+                               FontSize="10" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="2 0 0 4"/>
+                    <ComboBox Width="160"
+                              Style="{StaticResource ModernComboBoxStyle}"
+                              ItemsSource="{Binding FrequencyOptions}"
+                              SelectedItem="{Binding FilterFrequency}"/>
+                </StackPanel>
+
+                <StackPanel Margin="0 0 12 0">
+                    <TextBlock Text="BANDWIDTH  kHz"
+                               FontSize="10" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="2 0 0 4"/>
+                    <ComboBox Width="160"
+                              Style="{StaticResource ModernComboBoxStyle}"
+                              ItemsSource="{Binding BandwidthOptions}"
+                              SelectedItem="{Binding FilterBandwidth}"/>
+                </StackPanel>
+
+                <StackPanel Margin="0 0 12 0">
+                    <TextBlock Text="SNR  dB"
+                               FontSize="10" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="2 0 0 4"/>
+                    <ComboBox Width="160"
+                              Style="{StaticResource ModernComboBoxStyle}"
+                              ItemsSource="{Binding SnrOptions}"
+                              SelectedItem="{Binding FilterSnr}"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="COUNT"
+                               FontSize="10" FontWeight="SemiBold"
+                               Foreground="{StaticResource TextSecondaryBrush}"
+                               Margin="2 0 0 4"/>
+                    <ComboBox Width="160"
+                              Style="{StaticResource ModernComboBoxStyle}"
+                              ItemsSource="{Binding CountOptions}"
+                              SelectedItem="{Binding FilterCount}"/>
+                </StackPanel>
+
+                <StackPanel Margin="12 0 0 0" VerticalAlignment="Bottom">
+                    <Button Width="100"
+                            Style="{StaticResource PrimaryButtonStyle}"
+                            Content="Reset filters"
+                            Command="{Binding ResetFiltersCommand}"/>
+                </StackPanel>
+            </StackPanel>
+
             <!-- Data grid -->
-            <DataGrid Grid.Row="3"
+            <DataGrid Grid.Row="4"
                       Style="{StaticResource ModernDataGridStyle}"
-                      ItemsSource="{Binding Records}"
+                      ItemsSource="{Binding RecordsView}"
                       AutoGenerateColumns="False"
                       IsReadOnly="True"
                       VirtualizingPanel.IsVirtualizing="True"
@@ -55,7 +132,7 @@
 
                     <DataGridTextColumn Header="TIMESTAMP"
                                         Width="*"
-                                        Binding="{Binding Timestamp}"/>
+                                        Binding="{Binding Timestamp, StringFormat='{}{0:dd.MM.yyyy HH:mm:ss}'}"/>
 
                     <DataGridTextColumn Header="FREQUENCY  MHz"
                                         Width="*"
