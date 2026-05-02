@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OmnissiahWpfApp/OmnissiahWpfApp.csproj" />
+  <Project Path="OmnissiahWpfApp.Tests/OmnissiahWpfApp.Tests.csproj" />
+</Solution>

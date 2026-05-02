@@ -1,0 +1,83 @@
+﻿<Window x:Class="OmnissiahWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OmnissiahWpfApp"
+        mc:Ignorable="d"
+        Title="OmnissiahWpfApp"
+        Style="{StaticResource MainWindowStyle}"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="520" MinWidth="840"
+        Height="620" Width="1040">
+
+    <Border Style="{StaticResource RootBorderStyle}">
+
+        <Grid Margin="20">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="12"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Start/Stop Buttons -->
+            <StackPanel Grid.Row="0"
+                        Orientation="Horizontal"
+                        VerticalAlignment="Center">
+
+                <Button Width="150"
+                        Margin="0 0 12 0"
+                        Style="{StaticResource ServerButtonStyle}"
+                        Content="{Binding ServerButtonText, FallbackValue='Start Server'}"
+                        Command="{Binding ToggleServerCommand}"/>
+
+                <Button Width="150"
+                        Style="{StaticResource ClientButtonStyle}"
+                        Visibility="{Binding IsClientButtonVisible}"
+                        Content="{Binding ClientButtonText, FallbackValue='Start Client'}"
+                        Command="{Binding ToggleClientCommand}"/>
+
+            </StackPanel>
+
+            <!-- Data grid -->
+            <DataGrid Grid.Row="3"
+                      Style="{StaticResource ModernDataGridStyle}"
+                      ItemsSource="{Binding Records}"
+                      AutoGenerateColumns="False"
+                      IsReadOnly="True"
+                      VirtualizingPanel.IsVirtualizing="True"
+                      VirtualizingPanel.VirtualizationMode="Recycling"
+                      EnableRowVirtualization="True">
+
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="TIMESTAMP"
+                                        Width="*"
+                                        Binding="{Binding Timestamp}"/>
+
+                    <DataGridTextColumn Header="FREQUENCY  MHz"
+                                        Width="*"
+                                        Binding="{Binding FrequencyMHz}"/>
+
+                    <DataGridTextColumn Header="BANDWIDTH  kHz"
+                                        Width="*"
+                                        Binding="{Binding BandwidthKHz}"/>
+
+                    <DataGridTextColumn Header="SNR  dB"
+                                        Width="*"
+                                        Binding="{Binding SnrDb}"/>
+
+                    <DataGridTextColumn Header="COUNT"
+                                        Width="*"
+                                        Binding="{Binding Count}"/>
+
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+        </Grid>
+
+    </Border>
+</Window>
