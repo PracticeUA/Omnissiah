@@ -154,3 +154,7 @@ node_modules/
 # Temp folders
 Temp/
 Tmp/
+
+# Track release folder
+!Omnissiah EXE/
+!Omnissiah EXE/**

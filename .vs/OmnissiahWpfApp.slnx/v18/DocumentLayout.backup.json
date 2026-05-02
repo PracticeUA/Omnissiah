@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\styles\\mainwindowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\styles\\mainwindowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|c:\\git-projects\\omnissiah\\omnissiahwpfapp\\models\\signalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40693863-9D22-D791-9B9F-30ACAE310D01}|OmnissiahWpfApp\\OmnissiahWpfApp.csproj|solutionrelative:omnissiahwpfapp\\models\\signalrecordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -158,19 +154,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\MainWindow.xaml",
               "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\MainWindow.xaml",
               "RelativeToolTip": "OmnissiahWpfApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-30T15:07:53.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T15:07:53.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "FrameParser.cs",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Helpers\\FrameParser.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Helpers\\FrameParser.cs",
@@ -182,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SignalAggregatorService.cs",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
@@ -190,12 +185,11 @@
               "RelativeToolTip": "OmnissiahWpfApp\\Services\\SignalAggregatorService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwBgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T13:46:27.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T13:46:27.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "TcpClientService.cs",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\TcpClientService.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Services\\TcpClientService.cs",
@@ -207,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "SignalAggregatedRecordModel.cs",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Models\\SignalAggregatedRecordModel.cs",
@@ -219,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SignalRecordModel.cs",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
@@ -227,8 +221,7 @@
               "RelativeToolTip": "OmnissiahWpfApp\\Models\\SignalRecordModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T13:39:39.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T13:39:39.092Z"
             },
             {
               "$type": "Document",
@@ -245,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TcpServerService.cs",
               "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Services\\TcpServerService.cs",
               "RelativeDocumentMoniker": "OmnissiahWpfApp\\Services\\TcpServerService.cs",
@@ -254,18 +247,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T12:58:11.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindowStyle.xaml",
-              "DocumentMoniker": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
-              "RelativeDocumentMoniker": "OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
-              "ToolTip": "C:\\Git-projects\\Omnissiah\\OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
-              "RelativeToolTip": "OmnissiahWpfApp\\Styles\\MainWindowStyle.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-01T14:20:16.992Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OmnissiahWpfApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+736298e95345c1e7e97564181594b8d443ba401d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acad78843245bf3f62a408493b3f06cc40e3924a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmnissiahWpfApp.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmnissiahWpfApp.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
